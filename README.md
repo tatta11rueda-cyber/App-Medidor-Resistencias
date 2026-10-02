@@ -1,0 +1,1 @@
+# App-Medidor-Resistencias
